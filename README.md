@@ -20,6 +20,4 @@
   2. It must restore the AVL property after deletions using rotations.
   
   - Includes a **test program**  that *demonstrates the correctness of implementation.* 
-  Your program’s output should be designed to convince the marker that your insertion, rotation, and lookup, and search methods work correctly. *you can print out the tree, describe
-  what operation is about to be performed, and then print the resulting trees*.
-        Thus you should demonstrate cases that invoke all of the different kinds of rotations and special cases that might arise. Your examples should be non-trivial, but simple enough that they can be easily verified by inspection
+ demonstrates cases that invoke all of the different kinds of rotations and special cases that might arise. 
